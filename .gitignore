@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Archivos de compilación
 bin/
 obj/
@@ -31,3 +32,32 @@ packages/
 
 # Archivos de configuración personal
 *.DotSettings.user
+=======
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.log
+*.pdb
+*.cache
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# NuGet
+packages/
+*.nupkg
+
+
+Agrega .gitignore para excluir bin/, obj/ y archivos temporales
+>>>>>>> 77f90392cc0711dc4219a187f5361926bede35d5
