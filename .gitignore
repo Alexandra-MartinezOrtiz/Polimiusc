@@ -1,0 +1,33 @@
+# Archivos de compilación
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Archivos temporales de Visual Studio
+.vs/
+*.dbmdl
+*.dbproj.schemaview
+*.pdb
+*.psess
+*.vsp
+*.scc
+
+# Archivos de publicación
+.publish/
+
+# Archivos de configuración local
+appsettings.Development.json
+
+# Archivos de NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Archivos generados por Rider
+.idea/
+
+# Archivos de configuración personal
+*.DotSettings.user
