@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\DataAccess.PoliMusicV3\obj\Debug\DataAccess.PoliMusicV3.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\DataAccess.PoliMusicV3\obj\Debug\DataAccess.PoliMusicV3.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\DataAccess.PoliMusicV3\bin\Debug\DataAccess.PoliMusicV3.dll
+C:\Users\User\Downloads\DataAccess.PoliMusicV3\bin\Debug\DataAccess.PoliMusicV3.pdb
+C:\Users\User\Downloads\DataAccess.PoliMusicV3\bin\Debug\EntityLayer.PoliMusicV3.dll
+C:\Users\User\Downloads\DataAccess.PoliMusicV3\bin\Debug\EntityLayer.PoliMusicV3.pdb
+C:\Users\User\Downloads\DataAccess.PoliMusicV3\obj\Debug\DataAcce.D5BEFABF.Up2Date
+C:\Users\User\Downloads\DataAccess.PoliMusicV3\obj\Debug\DataAccess.PoliMusicV3.dll
+C:\Users\User\Downloads\DataAccess.PoliMusicV3\obj\Debug\DataAccess.PoliMusicV3.pdb

@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDE769D-1162-4DB2-A6B2-FB2D6C7EA9A0}|PoliMusic_GR2\\WebAppPoliMusicV1.csproj|c:\\workspace\\octavo semestre\\webabvazadas\\polimuisic\\polimusic_gr2\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDDE769D-1162-4DB2-A6B2-FB2D6C7EA9A0}|PoliMusic_GR2\\WebAppPoliMusicV1.csproj|solutionrelative:polimusic_gr2\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDE769D-1162-4DB2-A6B2-FB2D6C7EA9A0}|PoliMusic_GR2\\WebAppPoliMusicV1.csproj|c:\\workspace\\octavo semestre\\webabvazadas\\polimuisic\\polimusic_gr2\\login.asp||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{FDDE769D-1162-4DB2-A6B2-FB2D6C7EA9A0}|PoliMusic_GR2\\WebAppPoliMusicV1.csproj|solutionrelative:polimusic_gr2\\login.asp||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B1B4C-8206-45CF-931D-EB5815544079}|WebAppPoliMusicV3\\WebAppPoliMusicV3.csproj|c:\\workspace\\octavo semestre\\webabvazadas\\polimuisic\\webapppolimusicv3\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7B5B1B4C-8206-45CF-931D-EB5815544079}|WebAppPoliMusicV3\\WebAppPoliMusicV3.csproj|solutionrelative:webapppolimusicv3\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B1B4C-8206-45CF-931D-EB5815544079}|WebAppPoliMusicV3\\WebAppPoliMusicV3.csproj|C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\webapppolimusicv3\\song.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7B5B1B4C-8206-45CF-931D-EB5815544079}|WebAppPoliMusicV3\\WebAppPoliMusicV3.csproj|solutionrelative:webapppolimusicv3\\song.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B1B4C-8206-45CF-931D-EB5815544079}|WebAppPoliMusicV3\\WebAppPoliMusicV3.csproj|C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\webapppolimusicv3\\song.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B1B4C-8206-45CF-931D-EB5815544079}|WebAppPoliMusicV3\\WebAppPoliMusicV3.csproj|solutionrelative:webapppolimusicv3\\song.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C340F111-5A4F-480B-B45F-8DFF3D12F915}|EntityLayer.PoliMusicV3\\EntityLayer.PoliMusicV3.csproj|C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\entitylayer.polimusicv3\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C340F111-5A4F-480B-B45F-8DFF3D12F915}|EntityLayer.PoliMusicV3\\EntityLayer.PoliMusicV3.csproj|solutionrelative:entitylayer.polimusicv3\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B1B4C-8206-45CF-931D-EB5815544079}|WebAppPoliMusicV3\\WebAppPoliMusicV3.csproj|C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\webapppolimusicv3\\song.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B1B4C-8206-45CF-931D-EB5815544079}|WebAppPoliMusicV3\\WebAppPoliMusicV3.csproj|solutionrelative:webapppolimusicv3\\song.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B81974-2278-4C7D-8F4F-B2A2B0056B64}|BusinesLayer.PoliMusicV3\\BusinesLayer.PoliMusicV3.csproj|C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\busineslayer.polimusicv3\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B81974-2278-4C7D-8F4F-B2A2B0056B64}|BusinesLayer.PoliMusicV3\\BusinesLayer.PoliMusicV3.csproj|solutionrelative:busineslayer.polimusicv3\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1147053-1921-4BCB-BAEC-322CD4DE5E7A}|DataAccess.PoliMusicV3\\DataAccess.PoliMusicV3.csproj|C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\dataaccess.polimusicv3\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1147053-1921-4BCB-BAEC-322CD4DE5E7A}|DataAccess.PoliMusicV3\\DataAccess.PoliMusicV3.csproj|solutionrelative:dataaccess.polimusicv3\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 338,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\WebAppPoliMusicV3\\Login.aspx",
+              "RelativeDocumentMoniker": "WebAppPoliMusicV3\\Login.aspx",
+              "ToolTip": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\WebAppPoliMusicV3\\Login.aspx",
+              "RelativeToolTip": "WebAppPoliMusicV3\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-09T01:11:07.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Song.aspx.designer.cs",
+              "DocumentMoniker": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\WebAppPoliMusicV3\\Song.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebAppPoliMusicV3\\Song.aspx.designer.cs",
+              "ToolTip": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\WebAppPoliMusicV3\\Song.aspx.designer.cs",
+              "RelativeToolTip": "WebAppPoliMusicV3\\Song.aspx.designer.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:50:42.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\EntityLayer.PoliMusicV3\\Song.cs",
+              "RelativeDocumentMoniker": "EntityLayer.PoliMusicV3\\Song.cs",
+              "ToolTip": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\EntityLayer.PoliMusicV3\\Song.cs",
+              "RelativeToolTip": "EntityLayer.PoliMusicV3\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:46:24.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Song.aspx.cs",
+              "DocumentMoniker": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\WebAppPoliMusicV3\\Song.aspx.cs",
+              "RelativeDocumentMoniker": "WebAppPoliMusicV3\\Song.aspx.cs",
+              "ToolTip": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\WebAppPoliMusicV3\\Song.aspx.cs",
+              "RelativeToolTip": "WebAppPoliMusicV3\\Song.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:38:55.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Song.aspx",
+              "DocumentMoniker": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\WebAppPoliMusicV3\\Song.aspx",
+              "RelativeDocumentMoniker": "WebAppPoliMusicV3\\Song.aspx",
+              "ToolTip": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\WebAppPoliMusicV3\\Song.aspx",
+              "RelativeToolTip": "WebAppPoliMusicV3\\Song.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-09T00:26:25.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\DataAccess.PoliMusicV3\\Song.cs",
+              "RelativeDocumentMoniker": "DataAccess.PoliMusicV3\\Song.cs",
+              "ToolTip": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\DataAccess.PoliMusicV3\\Song.cs",
+              "RelativeToolTip": "DataAccess.PoliMusicV3\\Song.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:27:38.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\BusinesLayer.PoliMusicV3\\Song.cs",
+              "RelativeDocumentMoniker": "BusinesLayer.PoliMusicV3\\Song.cs",
+              "ToolTip": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\BusinesLayer.PoliMusicV3\\Song.cs",
+              "RelativeToolTip": "BusinesLayer.PoliMusicV3\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:29:43.109Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 62,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\PoliMusic_GR2\\index.html",
+              "RelativeDocumentMoniker": "PoliMusic_GR2\\index.html",
+              "ToolTip": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\PoliMusic_GR2\\index.html",
+              "RelativeToolTip": "PoliMusic_GR2\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-09T01:24:46.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.asp",
+              "DocumentMoniker": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\PoliMusic_GR2\\login.asp",
+              "RelativeDocumentMoniker": "PoliMusic_GR2\\login.asp",
+              "ToolTip": "C:\\workspace\\Octavo Semestre\\WebAbvazadas\\POLImuisic\\PoliMusic_GR2\\login.asp",
+              "RelativeToolTip": "PoliMusic_GR2\\login.asp",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-09T01:24:32.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

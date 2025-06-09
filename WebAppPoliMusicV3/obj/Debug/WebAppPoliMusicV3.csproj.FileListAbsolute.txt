@@ -1,0 +1,28 @@
+C:\Users\User\Downloads\WebAppPoliMusicV3\bin\WebAppPoliMusicV3.dll.config
+C:\Users\User\Downloads\WebAppPoliMusicV3\bin\WebAppPoliMusicV3.dll
+C:\Users\User\Downloads\WebAppPoliMusicV3\bin\WebAppPoliMusicV3.pdb
+C:\Users\User\Downloads\WebAppPoliMusicV3\bin\BusinesLayer.PoliMusicV3.dll
+C:\Users\User\Downloads\WebAppPoliMusicV3\bin\EntityLayer.PoliMusicV3.dll
+C:\Users\User\Downloads\WebAppPoliMusicV3\bin\DataAccess.PoliMusicV3.dll
+C:\Users\User\Downloads\WebAppPoliMusicV3\bin\BusinesLayer.PoliMusicV3.pdb
+C:\Users\User\Downloads\WebAppPoliMusicV3\bin\EntityLayer.PoliMusicV3.pdb
+C:\Users\User\Downloads\WebAppPoliMusicV3\bin\DataAccess.PoliMusicV3.pdb
+C:\Users\User\Downloads\WebAppPoliMusicV3\obj\Debug\WebAppPoliMusicV3.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\WebAppPoliMusicV3\obj\Debug\WebAppPoliMusicV3.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\WebAppPoliMusicV3\obj\Debug\WebAppPo.16609E14.Up2Date
+C:\Users\User\Downloads\WebAppPoliMusicV3\obj\Debug\WebAppPoliMusicV3.dll
+C:\Users\User\Downloads\WebAppPoliMusicV3\obj\Debug\WebAppPoliMusicV3.pdb
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\WebAppPoliMusicV3\bin\WebAppPoliMusicV3.dll.config
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\WebAppPoliMusicV3\bin\WebAppPoliMusicV3.dll
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\WebAppPoliMusicV3\bin\WebAppPoliMusicV3.pdb
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\WebAppPoliMusicV3\bin\BusinesLayer.PoliMusicV3.dll
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\WebAppPoliMusicV3\bin\EntityLayer.PoliMusicV3.dll
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\WebAppPoliMusicV3\bin\DataAccess.PoliMusicV3.dll
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\WebAppPoliMusicV3\bin\BusinesLayer.PoliMusicV3.pdb
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\WebAppPoliMusicV3\bin\EntityLayer.PoliMusicV3.pdb
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\WebAppPoliMusicV3\bin\DataAccess.PoliMusicV3.pdb
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\WebAppPoliMusicV3\obj\Debug\WebAppPoliMusicV3.csproj.AssemblyReference.cache
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\WebAppPoliMusicV3\obj\Debug\WebAppPoliMusicV3.csproj.CoreCompileInputs.cache
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\WebAppPoliMusicV3\obj\Debug\WebAppPo.16609E14.Up2Date
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\WebAppPoliMusicV3\obj\Debug\WebAppPoliMusicV3.dll
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\WebAppPoliMusicV3\obj\Debug\WebAppPoliMusicV3.pdb

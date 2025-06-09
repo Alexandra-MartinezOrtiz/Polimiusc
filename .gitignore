@@ -1,0 +1,33 @@
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# Build
+/build/
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.log
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Kotlin
+*.kt~
+*.swp
+
+# Config VS Code / JetBrains
+.vscode/
+*.user
+*.suo
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+.vs/
+

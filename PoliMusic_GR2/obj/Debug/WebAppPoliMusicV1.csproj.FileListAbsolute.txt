@@ -1,0 +1,7 @@
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\PoliMusic_GR2\bin\WebAppPoliMusicV1.dll.config
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\PoliMusic_GR2\bin\WebAppPoliMusicV1.dll
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\PoliMusic_GR2\bin\WebAppPoliMusicV1.pdb
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\PoliMusic_GR2\obj\Debug\WebAppPoliMusicV1.csproj.AssemblyReference.cache
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\PoliMusic_GR2\obj\Debug\WebAppPoliMusicV1.csproj.CoreCompileInputs.cache
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\PoliMusic_GR2\obj\Debug\WebAppPoliMusicV1.dll
+C:\workspace\Octavo Semestre\WebAbvazadas\POLImuisic\PoliMusic_GR2\obj\Debug\WebAppPoliMusicV1.pdb

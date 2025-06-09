@@ -1,0 +1,6 @@
+C:\Users\User\Downloads\EntityLayer.PoliMusicV3\bin\Debug\EntityLayer.PoliMusicV3.dll
+C:\Users\User\Downloads\EntityLayer.PoliMusicV3\bin\Debug\EntityLayer.PoliMusicV3.pdb
+C:\Users\User\Downloads\EntityLayer.PoliMusicV3\obj\Debug\EntityLayer.PoliMusicV3.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\EntityLayer.PoliMusicV3\obj\Debug\EntityLayer.PoliMusicV3.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\EntityLayer.PoliMusicV3\obj\Debug\EntityLayer.PoliMusicV3.dll
+C:\Users\User\Downloads\EntityLayer.PoliMusicV3\obj\Debug\EntityLayer.PoliMusicV3.pdb
